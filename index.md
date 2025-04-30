@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Julia Lizak](./julia.jpg){: style="max-width: 160px; border-radius: 50%; margin-bottom: 1rem;" }
+![Julia Lizak](me.png){: style="max-width: 160px; border-radius: 50%; margin-bottom: 1rem;" }
 
 # Hi, I'm Julia
 
