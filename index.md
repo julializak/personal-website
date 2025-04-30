@@ -1,3 +1,8 @@
+---
+layout: default
+title: Julia Lizak
+---
+
 # Hi, I'm Julia
 
 Welcome to my personal website!
