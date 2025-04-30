@@ -8,7 +8,7 @@ title: Julia Lizak
 Welcome to my personal website!
 
 ## About Me
-I'm a student at Saint Mary's College and University of Notre Dame, passionate about __, __, and __.
+I'm a student at Saint Mary's College and University of Notre Dame, passionate about __, _, and __.
 
 ## Skills
 - HTML & CSS
