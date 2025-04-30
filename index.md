@@ -12,4 +12,4 @@ I'm a student at Saint Mary's College and University of Notre Dame, passionate a
 - VSCode
 
 ## Contact
-Reach me at jlizak@nd.edu
+Reach me at jlizak@nd.edu (mailto:jlizak@nd.edu)
